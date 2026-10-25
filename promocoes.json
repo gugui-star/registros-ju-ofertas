@@ -1,13 +1,26 @@
 {
  "atualizado": "2026-10-25",
  "mercados": [
-  {"id": "angeloni", "nome": "Angeloni", "link": "https://super.angeloni.com.br/super-ofertas?layout=grid&order=OrderByTopSaleDESC&page=1", "nota": "Só 20 ofertas relidas em 25/10 (o site só abre as primeiras). As outras são de 21/10 e podem ter mudado.", "lidos": 208},
+  {"id": "angeloni", "nome": "Angeloni", "link": "https://super.angeloni.com.br/super-ofertas?layout=grid&order=OrderByTopSaleDESC&page=1", "nota": "33 ofertas relidas em 25/10 (maiores descontos). As outras são de 21/10 e podem ter mudado.", "lidos": 208},
   {"id": "myata", "nome": "Myatã", "link": "https://www.supermyata.com.br/#offers", "nota": "Encarte lido (23 a 29/10)."},
   {"id": "stok", "nome": "Stok Center", "link": "https://stokcenter.com.br/encarte/?id=25006&loja=Lages&unidade_id=422", "nota": "Falta o encarte desta semana."},
   {"id": "fort", "nome": "Fort Atacadista", "link": "https://www.fortatacadista.com.br/encartes/sc/lages/conta-dinheiro-960", "nota": "Encarte lido (17 a 31/10): só a página de limpeza. Falta o resto."},
   {"id": "alvorada", "nome": "Alvorada", "link": "https://superalvorada.com.br/tabloide/", "nota": "Encarte lido (20 a 26/10)."}
  ],
  "itens": [
+  {"produto": "Kit PANTENE Shampoo + Condicionador", "mercado": "angeloni", "preco": 26.9, "precoAntes": 44.99, "desconto": 40, "variantes": ["Pro-V Liso Extremo 350ml + 175ml", "Molecular Bond Repair 300ml + 150ml"], "validade": null, "fonte": "site"},
+  {"produto": "Papel Higiênico NEVE Toque de Seda Folha Dupla (18 rolos, 30m)", "mercado": "angeloni", "preco": 27.9, "precoAntes": 42.99, "desconto": 35, "validade": null, "fonte": "site"},
+  {"produto": "Caixa de Bombom LACTA Variedades Favoritos 250g", "mercado": "angeloni", "preco": 12.99, "precoAntes": 19.99, "desconto": 35, "validade": null, "fonte": "site"},
+  {"produto": "Ração para Gatos FRISKIES Adultos Megamix Especial 2,5kg", "mercado": "angeloni", "preco": 39.9, "precoAntes": 59.9, "desconto": 33, "validade": null, "fonte": "site"},
+  {"produto": "Queijo Parmesão Argentino PARMÍSSIMO Fracionado 200g", "mercado": "angeloni", "preco": 27.9, "precoAntes": 39.99, "desconto": 30, "validade": null, "fonte": "site"},
+  {"produto": "Mortadela SEARA Gourmet Defumada Fatiada 180g", "mercado": "angeloni", "preco": 6.99, "precoAntes": 9.99, "desconto": 30, "validade": null, "fonte": "site"},
+  {"produto": "Desodorizador GLADE Automatic Spray Refil 260ml", "mercado": "angeloni", "preco": 29.9, "precoAntes": 41.99, "desconto": 29, "variantes": ["Lavanda & Baunilha", "Frescor de Águas Florais"], "validade": null, "fonte": "site"},
+  {"produto": "Desodorante Aerossol NIVEA Derma Control Defende 150ml", "mercado": "angeloni", "preco": 12.9, "precoAntes": 17.99, "desconto": 28, "variantes": ["Feminino", "Men"], "validade": null, "fonte": "site"},
+  {"produto": "Espumante Chileno DON SILVESTRE Brut 750ml", "mercado": "angeloni", "preco": 34.99, "precoAntes": 47.99, "desconto": 27, "variantes": ["Brut", "Branco Demi Sec"], "validade": null, "fonte": "site"},
+  {"produto": "Salgadinho LONG CRISPS Cheese & Spring Onion 75g", "mercado": "angeloni", "preco": 5.99, "precoAntes": 7.99, "desconto": 25, "validade": null, "fonte": "site"},
+  {"produto": "Biscoito DUX Original 200g", "mercado": "angeloni", "preco": 5.99, "precoAntes": 7.99, "desconto": 25, "validade": null, "fonte": "site"},
+  {"produto": "Bolo Inglês 280g", "mercado": "angeloni", "preco": 12.99, "precoAntes": 16.99, "desconto": 24, "validade": null, "fonte": "site"},
+  {"produto": "Sabonete em Barra NIVEA Creme Care (6 unidades, 90g)", "mercado": "angeloni", "preco": 19.9, "precoAntes": 25.99, "desconto": 23, "validade": null, "fonte": "site"},
   {"produto": "Sabão em Pó BRILHANTE Limpeza Total 2,2kg", "mercado": "angeloni", "preco": 13.99, "precoAntes": 26.99, "desconto": 48, "validade": null, "fonte": "site"},
   {"produto": "Petisco Doguitos para Cães 45g a 65g", "mercado": "angeloni", "preco": 3.99, "precoAntes": 7.19, "desconto": 45, "variantes": ["Bifinho de Frango 65g", "Bifinho de Carne 65g", "Snack Linguicinha 45g"], "validade": null, "fonte": "site"},
   {"produto": "Vinho Espanhol LAS CAMELIAS Tinto 750ml", "mercado": "angeloni", "preco": 24.99, "precoAntes": 42.99, "desconto": 42, "validade": null, "fonte": "site"},
