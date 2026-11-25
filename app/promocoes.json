@@ -1,18 +1,18 @@
 {
- "atualizado": "2026-11-07",
+ "atualizado": "2026-11-24",
  "mercados": [
   {
    "id": "angeloni",
    "nome": "Angeloni",
    "link": "https://super.angeloni.com.br/super-ofertas?layout=grid&order=OrderByTopSaleDESC&page=1",
-   "nota": "Lido do texto das páginas dos mais vendidos em 07/11: páginas 1, 2, 4, 6, 7, 8, 9 e 10 (192 produtos). As páginas 3 e 5 não foram enviadas e não constam aqui.",
-   "lidos": 192
+   "nota": "Lido do texto das páginas 1 a 5 dos mais vendidos em 24/11 (120 de 209 produtos; faltam as páginas 6 a 9). Preços \"exclusivo site e app\".",
+   "lidos": 120
   },
   {
    "id": "myata",
    "nome": "Myatã",
    "link": "https://www.supermyata.com.br/#offers",
-   "nota": "Encarte lido (23 a 29/10)."
+   "nota": "Encartes lidos: Hortifrúti (24/11), Carnes (25/11) e Ofertas da semana (20 a 26/11)."
   },
   {
    "id": "stok",
@@ -24,818 +24,80 @@
    "id": "fort",
    "nome": "Fort Atacadista",
    "link": "https://www.fortatacadista.com.br/encartes/sc/lages/conta-dinheiro-960",
-   "nota": "Encarte lido (17 a 31/10): só a página de limpeza. Falta o resto."
+   "nota": "Encarte lido (23 a 29/11), 2 páginas. Itens \"a partir de N un\" mostram o preço promocional. Faltam as outras páginas."
   },
   {
    "id": "alvorada",
    "nome": "Alvorada",
    "link": "https://superalvorada.com.br/tabloide/",
-   "nota": "Encarte lido (20 a 26/10)."
+   "nota": "Falta o encarte desta semana."
   }
  ],
  "itens": [
   {
-   "produto": "Fraldinha Bovina",
-   "mercado": "alvorada",
-   "preco": 47.99,
-   "unidade": "kg",
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Filé de Coxa e Sobrecoxa Aurora IQF 1kg",
-   "mercado": "alvorada",
-   "preco": 12.99,
-   "precoAntes": 13.99,
-   "desconto": 7,
-   "obs": "Preço Clube Alvorada",
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Nata Lactovale 300g",
-   "mercado": "alvorada",
-   "preco": 5.99,
-   "precoAntes": 6.49,
-   "desconto": 8,
-   "obs": "Preço Clube Alvorada",
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Leite Aurora Zero Lactose Longa Vida 1L",
-   "mercado": "alvorada",
-   "preco": 4.79,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Cerveja Amstel Lager 350ml",
-   "mercado": "alvorada",
-   "preco": 2.99,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Café Melitta 500g",
-   "mercado": "alvorada",
-   "preco": 25.49,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Linguiça Toscana Pamplona 560g",
-   "mercado": "alvorada",
-   "preco": 11.99,
-   "precoAntes": 12.99,
-   "desconto": 8,
-   "obs": "Preço Clube Alvorada",
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Arroz Maletti 5kg",
-   "mercado": "alvorada",
-   "preco": 18.69,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Suco de Uva Aliança 1,5L",
-   "mercado": "alvorada",
-   "preco": 12.49,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Refrigerante Fruki 2L",
-   "mercado": "alvorada",
-   "preco": 5.69,
-   "precoAntes": 5.99,
-   "desconto": 5,
-   "obs": "Preço Clube Alvorada",
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Nescafé Vidro 160g",
-   "mercado": "alvorada",
-   "preco": 21.49,
-   "precoAntes": 21.99,
-   "desconto": 2,
-   "obs": "Preço Clube Alvorada",
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Macarrão Cup Noodles 68/70g",
-   "mercado": "alvorada",
-   "preco": 4.89,
-   "precoAntes": 5.49,
-   "desconto": 11,
-   "obs": "Preço Clube Alvorada",
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Vela Guia N3 Santa Paulina",
-   "mercado": "alvorada",
-   "preco": 4.49,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Papel Higiênico Fofinho 30m (12 rolos)",
-   "mercado": "alvorada",
-   "preco": 14.99,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Bisteca Suína",
-   "mercado": "alvorada",
-   "preco": 12.99,
-   "unidade": "kg",
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Açúcar Duçula 5kg",
-   "mercado": "alvorada",
-   "preco": 14.99,
-   "precoAntes": 15.49,
-   "desconto": 3,
-   "obs": "Preço Clube Alvorada",
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Leite em Pó Ninho Integral Sachê 350g",
-   "mercado": "alvorada",
-   "preco": 19.99,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Queijo Parmesão Ralado Président 50g",
-   "mercado": "alvorada",
-   "preco": 5.69,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Cerveja Budweiser 350ml",
-   "mercado": "alvorada",
-   "preco": 4.19,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Pepino Agridoce Rodelas Hemmer 800g",
-   "mercado": "alvorada",
-   "preco": 14.49,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Molho Oderich Tradicional Sachê 300g",
-   "mercado": "alvorada",
-   "preco": 1.69,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Bombom Garoto Sortido 220g",
-   "mercado": "alvorada",
-   "preco": 12.89,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Batata Palha Kifritas",
-   "mercado": "alvorada",
-   "preco": 3.49,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Coxinha de Frango com Catupiry (un)",
-   "mercado": "alvorada",
-   "preco": 7.99,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Chocolate Garoto 80g",
-   "mercado": "alvorada",
-   "preco": 5.99,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Ketchup Heinz Tradicional 397g",
-   "mercado": "alvorada",
-   "preco": 12.49,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Azeite de Oliva Extra Virgem Gallo 250ml",
-   "mercado": "alvorada",
-   "preco": 23.49,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Água Mineral Água da Pedra 5L sem gás",
-   "mercado": "alvorada",
-   "preco": 6.49,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Bebida Mista Faça na Bota 2L",
-   "mercado": "alvorada",
-   "preco": 10.99,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Coquetel Marula Taimbe 900ml",
-   "mercado": "alvorada",
-   "preco": 17.49,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Vinho Campo Largo Suave 1L",
-   "mercado": "alvorada",
-   "preco": 14.69,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Requeijão Cremoso Vigor Tradicional",
-   "mercado": "alvorada",
-   "preco": 6.39,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Bebida Láctea Frutirol 480g",
-   "mercado": "alvorada",
-   "preco": 3.99,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Aipim Congelado Deli Sabore 1kg (tolete)",
-   "mercado": "alvorada",
-   "preco": 7.99,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Queijo Mussarela Taió 300g",
-   "mercado": "alvorada",
-   "preco": 10.99,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Margarina Doriana Cremosa 500g",
-   "mercado": "alvorada",
-   "preco": 7.99,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Lava Roupas Aquafast 3L",
-   "mercado": "alvorada",
-   "preco": 25.49,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Desodorante Antitranspirante Bozzano / Monange",
-   "mercado": "alvorada",
-   "preco": 9.98,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Sabonete Sensus 80g",
-   "mercado": "alvorada",
-   "preco": 1.89,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Toalha Umedecida Anjinho 100 folhas",
-   "mercado": "alvorada",
-   "preco": 7.49,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Lava Roupas em Pó Omo Lavagem Perfeita 1,6kg",
-   "mercado": "alvorada",
-   "preco": 21.49,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Areia de Gato Toi Lex 4kg",
-   "mercado": "alvorada",
-   "preco": 46.99,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Ração Billy Dog Adulto 7kg",
-   "mercado": "alvorada",
-   "preco": 38.99,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Alimento Friskies / Dog Chow",
-   "mercado": "alvorada",
-   "preco": 2.89,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Areia Kelco Putz Grãos Médios 4kg",
-   "mercado": "alvorada",
-   "preco": 11.99,
-   "validade": "2026-10-26",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Lava Roupas em Pó Surf 5,6kg",
-   "mercado": "fort",
-   "preco": 29.9,
-   "precoAntes": 32.9,
-   "desconto": 9,
-   "obs": "Preço Clube Mais",
-   "validade": "2026-10-31",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Lava Roupas Líquido Brilhante Refil 900ml",
-   "mercado": "fort",
-   "preco": 8.9,
-   "precoAntes": 9.9,
-   "desconto": 10,
-   "obs": "Preço Clube Mais",
-   "validade": "2026-10-31",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Limpador em Pó Cif Limpeza Pesada 2,4kg",
-   "mercado": "fort",
-   "preco": 16.75,
-   "validade": "2026-10-31",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Limpador Cif Multiuso Cremoso 360ml",
-   "mercado": "fort",
-   "preco": 10.98,
-   "validade": "2026-10-31",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Lava Roupas Líquido Tixan Ypê 3L",
-   "mercado": "fort",
-   "preco": 23.99,
-   "validade": "2026-10-31",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Amaciante de Roupas Ypê 2L",
-   "mercado": "fort",
-   "preco": 8.99,
-   "validade": "2026-10-31",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Limpador Ypê Fácil 500ml",
-   "mercado": "fort",
-   "preco": 4.99,
-   "validade": "2026-10-31",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Sabonete Flor de Ypê 85g",
-   "mercado": "fort",
-   "preco": 1.69,
-   "validade": "2026-10-31",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Inseticida Aerossol SBP 450ml",
-   "mercado": "fort",
-   "preco": 21.9,
-   "validade": "2026-10-31",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Inseticida Elétrico SBP 32,9ml (aparelho + refil)",
-   "mercado": "fort",
-   "preco": 20.9,
-   "precoAntes": 21.9,
-   "desconto": 5,
-   "obs": "Preço Clube Mais",
-   "validade": "2026-10-31",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Inseticida Elétrico SBP Refil 32,9ml (3 un)",
-   "mercado": "fort",
-   "preco": 33.9,
-   "precoAntes": 34.9,
-   "desconto": 3,
-   "obs": "Preço Clube Mais",
-   "validade": "2026-10-31",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Inseticida Martein 10g",
-   "mercado": "fort",
-   "preco": 19.9,
-   "precoAntes": 20.9,
-   "desconto": 5,
-   "obs": "Preço Clube Mais",
-   "validade": "2026-10-31",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Coxão Mole Bovino Posta (exceto precoce)",
-   "mercado": "myata",
-   "preco": 49.99,
-   "precoAntes": 54.99,
-   "desconto": 9,
-   "unidade": "kg",
-   "obs": "Preço Clube Myatã",
-   "validade": "2026-10-29",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Arroz Parboilizado Kiarroz 5kg",
-   "mercado": "myata",
-   "preco": 13.99,
-   "precoAntes": 17.99,
-   "desconto": 22,
-   "obs": "Preço Clube Myatã",
-   "validade": "2026-10-29",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Leite em Pó Ninho Integral Instantâneo 380g",
-   "mercado": "myata",
-   "preco": 19.69,
-   "precoAntes": 20.99,
-   "desconto": 6,
-   "obs": "Preço Clube Myatã",
-   "validade": "2026-10-29",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Bebida Energética Elev 473ml",
-   "mercado": "myata",
-   "preco": 4.99,
-   "precoAntes": 5.49,
-   "desconto": 9,
-   "obs": "Preço Clube Myatã",
-   "validade": "2026-10-29",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Açúcar Refinado Alto Alegre 5kg",
-   "mercado": "myata",
-   "preco": 12.99,
-   "precoAntes": 16.99,
-   "desconto": 24,
-   "obs": "Preço Clube Myatã",
-   "validade": "2026-10-29",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Espaguete Instantâneo Nissin 500g",
-   "mercado": "myata",
-   "preco": 6.59,
-   "precoAntes": 7.99,
-   "desconto": 18,
-   "obs": "Preço Clube Myatã",
-   "validade": "2026-10-29",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Farinha de Trigo Maletti 5kg",
-   "mercado": "myata",
-   "preco": 13.99,
-   "precoAntes": 14.99,
-   "desconto": 7,
-   "obs": "Preço Clube Myatã",
-   "validade": "2026-10-29",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Filé de Coxa e Sobrecoxa Aurora IQF 1kg",
-   "mercado": "myata",
-   "preco": 12.98,
-   "precoAntes": 14.99,
-   "desconto": 13,
-   "obs": "Preço Clube Myatã",
-   "validade": "2026-10-29",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Café Solúvel Iguaçu 200g (pague 190g)",
-   "mercado": "myata",
-   "preco": 18.99,
-   "precoAntes": 22.99,
+   "produto": "Refrigerante COCA-COLA sem Açúcar 200ml",
+   "mercado": "angeloni",
+   "preco": 1.65,
+   "precoAntes": 1.99,
    "desconto": 17,
-   "obs": "Preço Clube Myatã",
-   "validade": "2026-10-29",
-   "fonte": "encarte"
+   "validade": null,
+   "fonte": "site"
   },
   {
-   "produto": "Pizza Congelada Perdigão 460g",
-   "mercado": "myata",
-   "preco": 11.99,
-   "precoAntes": 13.99,
-   "desconto": 14,
-   "obs": "Preço Clube Myatã",
-   "validade": "2026-10-29",
-   "fonte": "encarte"
+   "produto": "Refrigerante COCA-COLA 200ml",
+   "mercado": "angeloni",
+   "preco": 1.65,
+   "precoAntes": 1.99,
+   "desconto": 17,
+   "validade": null,
+   "fonte": "site"
   },
   {
-   "produto": "Chocolate Hershey's 75/77/82/85g",
-   "mercado": "myata",
-   "preco": 5.99,
-   "precoAntes": 6.99,
-   "desconto": 14,
-   "obs": "Preço Clube Myatã",
-   "validade": "2026-10-29",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Wafer Bauducco 140g",
-   "mercado": "myata",
-   "preco": 2.97,
-   "precoAntes": 3.99,
-   "desconto": 26,
-   "obs": "Preço Clube Myatã",
-   "validade": "2026-10-29",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Leite Longa Vida Aurora 1L",
-   "mercado": "myata",
-   "preco": 4.69,
-   "precoAntes": 4.99,
-   "desconto": 6,
-   "obs": "Preço Clube Myatã",
-   "validade": "2026-10-29",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Linguiça Toscana Deli Sabore Resfriada 560g",
-   "mercado": "myata",
-   "preco": 10.99,
-   "precoAntes": 11.99,
-   "desconto": 8,
-   "obs": "Preço Clube Myatã",
-   "validade": "2026-10-29",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Milho Verde Fugini 170g",
-   "mercado": "myata",
-   "preco": 2.29,
-   "precoAntes": 2.99,
-   "desconto": 23,
-   "obs": "Preço Clube Myatã",
-   "validade": "2026-10-29",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Amaciante Concentrado Guimarães 1L",
-   "mercado": "myata",
+   "produto": "Passata MONTE ROMANO 680g",
+   "mercado": "angeloni",
    "preco": 9.99,
-   "precoAntes": 11.99,
-   "desconto": 17,
-   "obs": "Preço Clube Myatã",
-   "validade": "2026-10-29",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Shampoo Siàge 250ml",
-   "mercado": "myata",
-   "preco": 37.99,
-   "precoAntes": 39.99,
-   "desconto": 5,
-   "obs": "Preço Clube Myatã",
-   "validade": "2026-10-29",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Cerveja Original Pack com 12 latas 350ml",
-   "mercado": "myata",
-   "preco": 47.8,
-   "precoAntes": 49.9,
-   "desconto": 4,
-   "obs": "Preço Clube Myatã",
-   "validade": "2026-10-29",
-   "fonte": "encarte"
-  },
-  {
-   "produto": "Creme de Leite PIRACANJUBA 200g",
-   "mercado": "angeloni",
-   "preco": 2.49,
-   "precoAntes": 2.99,
-   "desconto": 17,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Queijo Mussarela TIROLEZ Fatiado 300g",
-   "mercado": "angeloni",
-   "preco": 15.99,
-   "precoAntes": 16.99,
-   "desconto": 6,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Água Mineral SANTA CATARINA com Gás 500ml",
-   "mercado": "angeloni",
-   "preco": 0.99,
-   "precoAntes": 1.29,
-   "desconto": 23,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Leite Condensado PIRACANJUBA 395g",
-   "mercado": "angeloni",
-   "preco": 5.49,
-   "precoAntes": 6.69,
-   "desconto": 18,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Leite PIRACANJUBA Integral 1l",
-   "mercado": "angeloni",
-   "preco": 4.59,
-   "precoAntes": 5.29,
-   "desconto": 13,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Açúcar Refinado CARAVELAS 1kg",
-   "mercado": "angeloni",
-   "preco": 3.59,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Azeite de Oliva Extra Virgem Português ANDORINHA Clássicos 500ml",
-   "mercado": "angeloni",
-   "preco": 25.89,
-   "precoAntes": 36.99,
-   "desconto": 30,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Papel Higienico DUETTO Neutro Folha Tripla 20m com 18 rolos",
-   "mercado": "angeloni",
-   "preco": 24.9,
-   "precoAntes": 34.99,
-   "desconto": 29,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Refrigerante COCA-COLA Sem Açúcar 2L",
-   "mercado": "angeloni",
-   "preco": 11.49,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Requeijão Cremoso VIGOR 200g",
-   "mercado": "angeloni",
-   "preco": 7.49,
-   "precoAntes": 9.69,
-   "desconto": 23,
-   "variantes": [
-    "Light",
-    "Tradicional"
-   ],
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Carne Moída Bovino TOP QUALITY Patinho ATM Resfriado 500g",
-   "mercado": "angeloni",
-   "preco": 36.9,
-   "precoAntes": 39.99,
-   "desconto": 8,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Macarrão Ovos BARILLA 500g",
-   "mercado": "angeloni",
-   "preco": 3.6,
-   "precoAntes": 5.99,
-   "desconto": 40,
-   "variantes": [
-    "Parafuso com",
-    "Com Fettuccine",
-    "Penne com",
-    "Pai Nosso com para Sopas"
-   ],
+   "precoAntes": 14.99,
+   "desconto": 33,
    "validade": null,
    "fonte": "site"
   },
   {
    "produto": "Café 3 CORAÇÕES Gourmet 250g",
    "mercado": "angeloni",
-   "preco": 19.9,
-   "precoAntes": 25.49,
-   "desconto": 22,
+   "preco": 25.99,
+   "obs": "2ª unidade: 50% de desconto (sai por R$ 12,99)",
    "variantes": [
     "Sul de Minas",
     "Cerrado Mineiro",
-    "Mogiana Paulista",
-    "Espirito Santo"
+    "Mogiana Paulista"
    ],
    "validade": null,
    "fonte": "site"
   },
   {
-   "produto": "Massa Italiana LA MOLISANA Gnocchi di Patate 500g",
+   "produto": "Azeite De Oliva MONTE ROMANO Extra Virgem 500ml",
    "mercado": "angeloni",
-   "preco": 6.99,
-   "precoAntes": 9.99,
-   "desconto": 30,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Macarrão Espaguete N8 com Ovos BARILLA 500g",
-   "mercado": "angeloni",
-   "preco": 3.6,
-   "precoAntes": 5.99,
+   "preco": 19.99,
+   "precoAntes": 33.29,
    "desconto": 40,
    "validade": null,
    "fonte": "site"
   },
   {
-   "produto": "Feijão Preto CALDO BOM 1kg",
+   "produto": "Tomate MONTE ROMANO Sem Pele 240g",
    "mercado": "angeloni",
-   "preco": 6.79,
-   "precoAntes": 7.99,
-   "desconto": 15,
+   "preco": 4.99,
+   "precoAntes": 8.99,
+   "desconto": 44,
    "validade": null,
    "fonte": "site"
   },
   {
-   "produto": "Doce de Leite TIROL 350g",
+   "produto": "Passata Tomate LA MOLISANA Clássica 690g",
    "mercado": "angeloni",
-   "preco": 8.9,
-   "precoAntes": 9.99,
-   "desconto": 11,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Azeite de Oliva D'AGUIRRE Extra Virgem 500ml",
-   "mercado": "angeloni",
-   "preco": 22.39,
-   "precoAntes": 31.99,
-   "desconto": 30,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Pão de Queijo FORNO DE MINAS Congelado 820g",
-   "mercado": "angeloni",
-   "preco": 24.99,
-   "precoAntes": 31.89,
-   "desconto": 22,
-   "variantes": [
-    "Tradicional",
-    "Lanche"
-   ],
+   "preco": 11.99,
+   "precoAntes": 15.9,
+   "desconto": 25,
    "validade": null,
    "fonte": "site"
   },
@@ -849,869 +111,109 @@
    "fonte": "site"
   },
   {
-   "produto": "Chocolate MILKA Alpine Milk 90g",
-   "mercado": "angeloni",
-   "preco": 11.04,
-   "precoAntes": 16.99,
-   "desconto": 35,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Tapioca ROCHA sem Glúten 1kg",
+   "produto": "Caixa de Bombom LACTA Variedades Favoritos 250g",
    "mercado": "angeloni",
    "preco": 11.99,
-   "precoAntes": 13.59,
-   "desconto": 12,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Refrigerante COCA-COLA Zero 350ml",
-   "mercado": "angeloni",
-   "preco": 3.99,
-   "precoAntes": 4.49,
-   "desconto": 11,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Suco PRATS Laranja Refrigerado 1.5l",
-   "mercado": "angeloni",
-   "preco": 18.99,
-   "precoAntes": 24.99,
-   "desconto": 24,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Passata Tomate LA MOLISANA Clássica 690g",
-   "mercado": "angeloni",
-   "preco": 15.9,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Detergente YPÊ 500ml",
-   "mercado": "angeloni",
-   "preco": 2.49,
-   "variantes": [
-    "Neutro",
-    "Coco",
-    "Toque Suave Clear Care"
-   ],
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Carré Suíno SEARA Fatiado Resfriado Kg",
-   "mercado": "angeloni",
-   "preco": 14.9,
    "precoAntes": 19.99,
-   "desconto": 25,
-   "unidade": "kg",
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Lava Roupa Líquido GIRANDO SOL 3l",
-   "mercado": "angeloni",
-   "preco": 19.9,
-   "precoAntes": 38.99,
-   "desconto": 49,
-   "variantes": [
-    "Coco & Baunilha",
-    "Hipoalergênico",
-    "Glicerinado",
-    "Ação Total"
-   ],
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Óleo de Soja COAMO Refinado 900ml",
-   "mercado": "angeloni",
-   "preco": 7.29,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Toalha de Papel  SNOB  Hiper Economia Com 3 Rolos Com 120 Toalhas Cada 19cm x 20cm",
-   "mercado": "angeloni",
-   "preco": 17.9,
-   "precoAntes": 24.99,
-   "desconto": 28,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Azeite de Oliva GALLO Extra Virgem 500ml",
-   "mercado": "angeloni",
-   "preco": 25.89,
-   "precoAntes": 36.99,
-   "desconto": 30,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Creme de Leite NESTLÉ 300g",
-   "mercado": "angeloni",
-   "preco": 6.99,
-   "precoAntes": 8.99,
-   "desconto": 22,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Margarina Qualy Com Sal 500g",
-   "mercado": "angeloni",
-   "preco": 9.49,
-   "precoAntes": 10.99,
-   "desconto": 14,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Refrigerante COCA-COLA 200ml",
-   "mercado": "angeloni",
-   "preco": 1.89,
-   "precoAntes": 1.99,
-   "desconto": 5,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Peito de Frango NAT Desfiado Congelado 400g",
-   "mercado": "angeloni",
-   "preco": 19.9,
-   "precoAntes": 21.99,
-   "desconto": 10,
+   "desconto": 40,
    "validade": null,
    "fonte": "site"
   },
   {
    "produto": "Passata Rustica CIRIO 680g",
    "mercado": "angeloni",
-   "preco": 10.79,
-   "precoAntes": 17.99,
-   "desconto": 40,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Lenço Umedecido COTTON VALLEY com 50 Unidades",
-   "mercado": "angeloni",
-   "preco": 4.19,
-   "precoAntes": 6.99,
-   "desconto": 40,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Caixa de Bombom LACTA Variedades Favoritos 250g",
-   "mercado": "angeloni",
-   "preco": 16.99,
-   "precoAntes": 19.99,
-   "desconto": 15,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Detergente YPÊ",
-   "mercado": "angeloni",
-   "preco": 2.49,
-   "precoAntes": 2.99,
-   "desconto": 17,
-   "variantes": [
-    "Clear - Transparente - 500Ml - Rende Mais",
-    "Capim Limão 500ml"
-   ],
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Iogurte Danone Morango 1250g",
-   "mercado": "angeloni",
-   "preco": 13.99,
-   "precoAntes": 19.59,
-   "desconto": 29,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Achocolatado em Pó NESCAU Lata 350g",
-   "mercado": "angeloni",
-   "preco": 8.99,
-   "precoAntes": 12.99,
-   "desconto": 31,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Filé de Tilápia COPACOL IQF 800g",
-   "mercado": "angeloni",
-   "preco": 44.9,
-   "precoAntes": 51.9,
-   "desconto": 13,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Mostarda HEINZ Tradicional 255g",
-   "mercado": "angeloni",
-   "preco": 16.99,
-   "precoAntes": 18.5,
-   "desconto": 8,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Bacon PERDIGÃO pedaço kg",
-   "mercado": "angeloni",
-   "preco": 34.9,
-   "precoAntes": 39.89,
-   "desconto": 13,
-   "unidade": "kg",
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Bebida Mista NATURAL ONE FRESH 900ml",
-   "mercado": "angeloni",
-   "preco": 6.99,
-   "precoAntes": 9.99,
+   "preco": 13.29,
+   "precoAntes": 18.99,
    "desconto": 30,
-   "variantes": [
-    "Cranberry",
-    "Maracujá",
-    "Maçã Verde"
-   ],
    "validade": null,
    "fonte": "site"
   },
   {
-   "produto": "Batata MC CAIN Clássicas + Fininhas 1.05kg",
+   "produto": "Refrigerante COCA-COLA Zero 350ml",
    "mercado": "angeloni",
-   "preco": 18.99,
-   "precoAntes": 27.99,
-   "desconto": 32,
+   "preco": 3.49,
+   "precoAntes": 4.39,
+   "desconto": 21,
    "validade": null,
    "fonte": "site"
   },
   {
-   "produto": "Iogurte Grego VIGOR 90g",
+   "produto": "Refrigerante COCA-COLA 350ml",
    "mercado": "angeloni",
-   "preco": 3.29,
-   "precoAntes": 3.85,
-   "desconto": 15,
-   "variantes": [
-    "Calda Frutas Vermelhas Pote",
-    "Frutas Amarelas Pt",
-    "Morango e Baunilha Pt",
-    "Desnatado Tradicional Pote",
-    "Pistache Edição Limitada",
-    "Flocos Pt"
-   ],
+   "preco": 3.49,
+   "precoAntes": 4.39,
+   "desconto": 21,
    "validade": null,
    "fonte": "site"
   },
   {
-   "produto": "Costela Suína SEARA Peça Resfriada Kg",
-   "mercado": "angeloni",
-   "preco": 21.9,
-   "precoAntes": 27.9,
-   "desconto": 22,
-   "unidade": "kg",
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Maionese HEINZ Tradicional 390g",
-   "mercado": "angeloni",
-   "preco": 14.99,
-   "precoAntes": 16.99,
-   "desconto": 12,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Atum ATUNTITO Ralado 120g",
+   "produto": "Macarrão MONTE ROMANO 500g",
    "mercado": "angeloni",
    "preco": 5.99,
-   "precoAntes": 7.99,
-   "desconto": 25,
-   "variantes": [
-    "Natural",
-    "Óleo"
-   ],
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Biscoito Salgado CLUB SOCIAL Original Multipack 144g",
-   "mercado": "angeloni",
-   "preco": 5.85,
-   "precoAntes": 6.89,
-   "desconto": 15,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Chocolate LACTA Bis 100,8g",
-   "mercado": "angeloni",
-   "preco": 6.7,
-   "precoAntes": 7.89,
-   "desconto": 15,
-   "variantes": [
-    "ao Leite",
-    "Black"
-   ],
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Refrigerante SPRITE Lima-Limão sem Açúcares 2L",
-   "mercado": "angeloni",
-   "preco": 8.79,
    "precoAntes": 8.99,
-   "desconto": 2,
+   "desconto": 33,
+   "variantes": [
+    "Penne",
+    "Spaghetti",
+    "Italiano Fusilli",
+    "Linguine",
+    "Farfalle"
+   ],
    "validade": null,
    "fonte": "site"
   },
   {
-   "produto": "Leite em Pó NINHO Integral Instantâneo Lata 380g",
+   "produto": "Caixa de Bombom LACTA Sonho de Valsa e Ouro Branco Sortidos 220g",
    "mercado": "angeloni",
-   "preco": 20.99,
-   "precoAntes": 27.5,
-   "desconto": 24,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Leite em Pó NINHO Integral 380g",
-   "mercado": "angeloni",
-   "preco": 20.99,
-   "precoAntes": 27.5,
-   "desconto": 24,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Suco de Uva GARIBALDI Tinto Integral 1.5l",
-   "mercado": "angeloni",
-   "preco": 15.9,
-   "precoAntes": 17.99,
-   "desconto": 12,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Café Torrado e Moído a Vácuo Tradicional PILÃO Pacote 500g",
-   "mercado": "angeloni",
-   "preco": 22.99,
-   "precoAntes": 25.99,
-   "desconto": 12,
+   "preco": 11.99,
+   "precoAntes": 19.99,
+   "desconto": 40,
    "validade": null,
    "fonte": "site"
   },
   {
    "produto": "Chocolate LACTA 80g",
    "mercado": "angeloni",
-   "preco": 7.49,
+   "preco": 5.93,
    "precoAntes": 9.89,
-   "desconto": 24,
+   "desconto": 40,
    "variantes": [
+    "ao Leite",
     "Branco Laka",
     "ao Leite com Amendoim Shot",
-    "Branco Laka Oreo",
     "Branco ao Leite Diamante Negro Laka",
+    "Branco Laka Oreo",
+    "Amaro 40% Cacau Barra",
     "ao Leite Diamante Negro"
    ],
    "validade": null,
    "fonte": "site"
   },
   {
-   "produto": "Maionese HEINZ Tradicional 400g",
+   "produto": "Chocolate LACTA Bis 100,8g",
    "mercado": "angeloni",
-   "preco": 14.99,
-   "precoAntes": 17.49,
-   "desconto": 14,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Creme Ricota PRESIDENT Light 200g",
-   "mercado": "angeloni",
-   "preco": 7.99,
-   "precoAntes": 9.49,
-   "desconto": 16,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "File de Peito Frango MACEDO Pedaço Resfriada Kg",
-   "mercado": "angeloni",
-   "preco": 19.9,
-   "precoAntes": 26.59,
-   "desconto": 25,
-   "unidade": "kg",
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Pipoca para Micro-Ondas YOKI Pacote 100g",
-   "mercado": "angeloni",
-   "preco": 3.49,
-   "precoAntes": 5.69,
-   "desconto": 39,
+   "preco": 4.73,
+   "precoAntes": 7.89,
+   "desconto": 40,
    "variantes": [
-    "Natural com Sal",
-    "Temperada",
-    "Manteiga",
-    "Natural"
+    "ao Leite",
+    "Branco",
+    "Oreo"
    ],
    "validade": null,
    "fonte": "site"
   },
   {
-   "produto": "Cerveja HEINEKEN Lata 473ml",
+   "produto": "Tomate sem Pele CIRIO 240g",
    "mercado": "angeloni",
-   "preco": 5.99,
-   "precoAntes": 7.29,
-   "desconto": 18,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Salgadinho DORITOS Queijo Nacho 120g",
-   "mercado": "angeloni",
-   "preco": 12.99,
-   "precoAntes": 14.99,
-   "desconto": 13,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Batata Palha MISTER POTEITOS Super Fina 270g",
-   "mercado": "angeloni",
-   "preco": 14.99,
-   "precoAntes": 17.99,
-   "desconto": 17,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Salgadinho Batata Frita PRINGLES Creme e Cebola 109g",
-   "mercado": "angeloni",
-   "preco": 12.99,
-   "precoAntes": 14.99,
-   "desconto": 13,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "NIVEA Sabonete em Barra Creme Care Promo 6 uni 90g",
-   "mercado": "angeloni",
-   "preco": 19.9,
-   "precoAntes": 25.99,
-   "desconto": 23,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Hamburguer Bovino TOP QUALITY Angus ATM Resfriado 300g",
-   "mercado": "angeloni",
-   "preco": 19.9,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Refrigerante FANTA Zero 350ml",
-   "mercado": "angeloni",
-   "preco": 2.99,
-   "precoAntes": 3.69,
-   "desconto": 19,
-   "variantes": [
-    "Laranja",
-    "Guaraná Adição de Açúcar"
-   ],
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Suco YAKULT Maçã 200ml",
-   "mercado": "angeloni",
-   "preco": 3.99,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Costela Suína SEARA Fatiado Resfriado Kg",
-   "mercado": "angeloni",
-   "preco": 21.9,
-   "precoAntes": 29.29,
-   "desconto": 25,
-   "unidade": "kg",
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Biscoito ISABELA Leite 350g",
-   "mercado": "angeloni",
-   "preco": 5.49,
-   "precoAntes": 6.99,
-   "desconto": 21,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Linguiça fininha defumada SEARA 215g",
-   "mercado": "angeloni",
-   "preco": 7.99,
-   "precoAntes": 9.15,
-   "desconto": 13,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Passata Italiana CIRIO 1.02Kg",
-   "mercado": "angeloni",
-   "preco": 13.79,
-   "precoAntes": 18.89,
-   "desconto": 27,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Suco PRATS Laranja Integral 300ml",
-   "mercado": "angeloni",
-   "preco": 4.99,
-   "precoAntes": 6.75,
-   "desconto": 26,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Leite de coco SOCOCO 200ml",
-   "mercado": "angeloni",
-   "preco": 6.9,
-   "precoAntes": 8.89,
-   "desconto": 22,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Biscoito NESTLÉ Chocobiscuit Milk Chocolate ao Leite 78g",
-   "mercado": "angeloni",
-   "preco": 4.79,
-   "precoAntes": 7.99,
-   "desconto": 40,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Biscoito com Chocolate Chocobiscuit GAROTO ao Leite 78g",
-   "mercado": "angeloni",
-   "preco": 4.19,
-   "precoAntes": 6.99,
-   "desconto": 40,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Queijo Minas PRESIDENT Padrão Fatiado 150g",
-   "mercado": "angeloni",
-   "preco": 12.99,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Lasanha SEARA Bolonhesa 600g",
-   "mercado": "angeloni",
-   "preco": 12.49,
-   "precoAntes": 15.99,
-   "desconto": 22,
-   "obs": "2ª unidade: 25% de desconto (sai por R$ 9,37)",
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Massa LA MOLISANA Spaghetti Leve 750g Pague 500g",
-   "mercado": "angeloni",
-   "preco": 8.39,
-   "precoAntes": 13.99,
-   "desconto": 40,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Massa Tortilha Deli Sun De Trigo Vegana 320g",
-   "mercado": "angeloni",
-   "preco": 9.9,
-   "precoAntes": 12.9,
-   "desconto": 23,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Salgadinho Fandangos ELMA CHIPS Presunto 160g",
-   "mercado": "angeloni",
-   "preco": 15.59,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Azeitona Preta DONA HELENA com Caroço 198g",
-   "mercado": "angeloni",
-   "preco": 11.89,
-   "precoAntes": 16.99,
+   "preco": 7.69,
+   "precoAntes": 10.99,
    "desconto": 30,
    "validade": null,
    "fonte": "site"
   },
   {
-   "produto": "Energético MONSTER 473ml",
-   "mercado": "angeloni",
-   "preco": 8.99,
-   "precoAntes": 9.99,
-   "desconto": 10,
-   "variantes": [
-    "Energy Ultra Fiesta Mango Sem Açúcares",
-    "Absolutely Zero",
-    "Energy Ultra Peachy Pessêgo",
-    "Mango Loco"
-   ],
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Azeite de Oliva MONINI Extra Virgem Néctar de Oliva 500ml",
-   "mercado": "angeloni",
-   "preco": 29.9,
-   "precoAntes": 38.99,
-   "desconto": 23,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Manteiga PRESIDENT com Sal Zero Lactose 200g",
-   "mercado": "angeloni",
-   "preco": 13.99,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Cerveja HEINEKEN Lata 350ml",
-   "mercado": "angeloni",
-   "preco": 4.99,
-   "precoAntes": 5.99,
-   "desconto": 17,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Cerveja PATAGONIA Lata 473ml",
-   "mercado": "angeloni",
-   "preco": 6.99,
-   "precoAntes": 8.99,
-   "desconto": 22,
-   "variantes": [
-    "Ipa",
-    "Amber Lager"
-   ],
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Atum ATUNTITO Natural Sólido 120g",
-   "mercado": "angeloni",
-   "preco": 8.39,
-   "precoAntes": 11.99,
-   "desconto": 30,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Refrigerante Fanta Laranja Zero 2l",
-   "mercado": "angeloni",
-   "preco": 7.99,
-   "precoAntes": 8.99,
-   "desconto": 11,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Kit PANTENE Bambu Nutre & Cresce Shampoo 400ml + Condicionador 175ml Kit Desconto",
-   "mercado": "angeloni",
-   "preco": 26.9,
-   "precoAntes": 44.99,
-   "desconto": 40,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Iogurte Danone Vitamina De Frutas 1250g Embalagem Superecônomica",
-   "mercado": "angeloni",
-   "preco": 13.99,
-   "precoAntes": 19.59,
-   "desconto": 29,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Coco ralado SOCOCO 100g",
-   "mercado": "angeloni",
-   "preco": 6.9,
-   "precoAntes": 8.55,
-   "desconto": 19,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "File de Peito Frango MACEDO Bife Resfriada Kg",
-   "mercado": "angeloni",
-   "preco": 19.9,
-   "precoAntes": 26.59,
-   "desconto": 25,
-   "unidade": "kg",
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Bombom GAROTO Sortidos 220g 10% Grátis",
-   "mercado": "angeloni",
-   "preco": 11.69,
-   "precoAntes": 16.99,
-   "desconto": 31,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Biscoito MILKA Choco Moo 120G",
-   "mercado": "angeloni",
-   "preco": 14.9,
-   "precoAntes": 22.99,
-   "desconto": 35,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Doce de Leite NARBONA 470G",
-   "mercado": "angeloni",
-   "preco": 23.94,
-   "precoAntes": 39.9,
-   "desconto": 40,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Beterraba JURÉIA 300g",
-   "mercado": "angeloni",
-   "preco": 9.99,
-   "precoAntes": 12.99,
-   "desconto": 23,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Cerveja AMSTEL Lager Ultra 350ml",
-   "mercado": "angeloni",
-   "preco": 4.29,
-   "precoAntes": 5.29,
-   "desconto": 19,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Presunto SEARA Fatiado 350g",
-   "mercado": "angeloni",
-   "preco": 14.49,
-   "precoAntes": 18.49,
-   "desconto": 22,
-   "obs": "2ª unidade: 25% de desconto (sai por R$ 10,87)",
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Manteiga Tirol Sem Sal 200g",
-   "mercado": "angeloni",
-   "preco": 9.99,
-   "precoAntes": 12.89,
-   "desconto": 22,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Refresco em pó TANG 18g",
-   "mercado": "angeloni",
-   "preco": 1.39,
-   "obs": "20% OFF ativando oferta no app",
-   "variantes": [
-    "Laranja",
-    "Maracujá"
-   ],
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Salsicha hot dog SEARA 500g",
-   "mercado": "angeloni",
-   "preco": 9.99,
-   "precoAntes": 12.99,
-   "desconto": 23,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Bombom GAROTO Sortido 220g",
-   "mercado": "angeloni",
-   "preco": 12.99,
-   "precoAntes": 18.99,
-   "desconto": 32,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Pizza de SEARA 460g",
-   "mercado": "angeloni",
-   "preco": 15.99,
-   "precoAntes": 19.99,
-   "desconto": 20,
-   "variantes": [
-    "lombo com Catupiry®",
-    "frango com Catupiry®",
-    "calabresa"
-   ],
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Aveia JASMINE Flocos Grossos Integral 400g",
-   "mercado": "angeloni",
-   "preco": 9.99,
-   "precoAntes": 13.19,
-   "desconto": 24,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Salame Hamburgês Sadia Fatiado 100g",
-   "mercado": "angeloni",
-   "preco": 8.99,
-   "precoAntes": 12.99,
-   "desconto": 31,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Saco para Lixo DOBRASIL Perfumado Azul Rolo com 40 Unidades 15l",
-   "mercado": "angeloni",
-   "preco": 14.9,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Arroz para Risoto SCOTTI Eccellente 500g",
+   "produto": "Arroz MONTE ROMANO Arborio 500g",
    "mercado": "angeloni",
    "preco": 10.43,
    "precoAntes": 14.9,
@@ -1720,226 +222,193 @@
    "fonte": "site"
   },
   {
-   "produto": "Biscoito Salgado CLUB SOCIAL Crostini 80g",
-   "mercado": "angeloni",
-   "preco": 5.85,
-   "precoAntes": 6.89,
-   "desconto": 15,
-   "variantes": [
-    "Original",
-    "Queijo Parmesão e Vegetais"
-   ],
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Farofa de Mandioca Tradicional YOKI Pacote 400g",
-   "mercado": "angeloni",
-   "preco": 8.99,
-   "precoAntes": 9.99,
-   "desconto": 10,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Salgadinho Cheetos ELMA CHIPS Lua Parmesão 143g",
+   "produto": "Biscoito GULLON Mega Duo Chocolate 500g",
    "mercado": "angeloni",
    "preco": 13.99,
-   "precoAntes": 16.49,
-   "desconto": 15,
+   "precoAntes": 19.99,
+   "desconto": 30,
    "validade": null,
    "fonte": "site"
   },
   {
-   "produto": "Iogurte VIGOR Grego Torta de Limão 90g",
+   "produto": "Refrigerante SPRITE Lima-Limão sem Açúcares 2L",
    "mercado": "angeloni",
-   "preco": 3.29,
-   "precoAntes": 3.85,
-   "desconto": 15,
-   "obs": "Leve 5 pague 4",
+   "preco": 7.49,
+   "precoAntes": 8.99,
+   "desconto": 17,
    "validade": null,
    "fonte": "site"
   },
   {
-   "produto": "Queijo Prato PÉSIDENT Gran Reserva 150g",
+   "produto": "Passata Italiana CIRIO 1.02Kg",
    "mercado": "angeloni",
-   "preco": 12.99,
+   "preco": 13.22,
+   "precoAntes": 18.89,
+   "desconto": 30,
    "validade": null,
    "fonte": "site"
   },
   {
-   "produto": "Chiclete TRIDENT XSenses Spearmint Sem Açúcar Garrafa 54g",
-   "mercado": "angeloni",
-   "preco": 13.33,
-   "precoAntes": 15.69,
-   "desconto": 15,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Ripa Costela Suína SEARA Resfriada Kg",
-   "mercado": "angeloni",
-   "preco": 21.9,
-   "precoAntes": 30.49,
-   "desconto": 28,
-   "unidade": "kg",
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Repelente Elétrico Líquido SBP 45 noites 3 Refis Oferta Especial",
-   "mercado": "angeloni",
-   "preco": 29.9,
-   "precoAntes": 39.99,
-   "desconto": 25,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Iogurte Danone Coco 1250g",
-   "mercado": "angeloni",
-   "preco": 13.99,
-   "precoAntes": 19.59,
-   "desconto": 29,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Ração úmida FRISKIES Para Gatos Ao Molho Sachet 85g",
+   "produto": "Água Tônica SCHWEPPES sem Açúcar 350ml",
    "mercado": "angeloni",
    "preco": 2.69,
-   "precoAntes": 3.39,
-   "desconto": 21,
+   "precoAntes": 3.59,
+   "desconto": 25,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Água Tônica SCHWEPPES 350ml",
+   "mercado": "angeloni",
+   "preco": 2.69,
+   "precoAntes": 3.59,
+   "desconto": 25,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Limpador Especialista CIF Derrete Gordura 500 ml",
+   "mercado": "angeloni",
+   "preco": 24.99,
+   "obs": "2ª unidade: 80% de desconto (sai por R$ 5,00)",
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Doce de Leite Uruguaio CONAPROLE 440g",
+   "mercado": "angeloni",
+   "preco": 17.99,
+   "precoAntes": 25.99,
+   "desconto": 31,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Refrigerante ANTARCTICA Guaraná Zero 2L",
+   "mercado": "angeloni",
+   "preco": 9.99,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Azeitona Verde DONA HELENA sem Caroço 163g",
+   "mercado": "angeloni",
+   "preco": 12.99,
+   "precoAntes": 18.49,
+   "desconto": 30,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Biscoito Recheado TRAKINAS 126g",
+   "mercado": "angeloni",
+   "preco": 2.31,
+   "precoAntes": 3.85,
+   "desconto": 40,
    "variantes": [
-    "Adultos Carne",
-    "Salmão",
-    "Atum",
-    "Peixe Branco",
-    "Frango",
-    "Cordeiro"
+    "Morango",
+    "Meio a Meio Chocolate ao Leite e Branco",
+    "Meio a Meio Chocolate e Morango"
    ],
    "validade": null,
    "fonte": "site"
   },
   {
-   "produto": "Queijo PRESIDENT Tipo Gouda 130g",
+   "produto": "Chocolate LACTA 145g",
    "mercado": "angeloni",
-   "preco": 12.99,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Queijo Minas Padrão Verde Campo Kg",
-   "mercado": "angeloni",
-   "preco": 79.9,
-   "precoAntes": 94.9,
-   "desconto": 16,
-   "unidade": "kg",
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Iogurte BATAVO Pense Zero Batido Zero Lactose, sem adição de Ácúcares 1150g Embalagem Econômica",
-   "mercado": "angeloni",
-   "preco": 16.99,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Tempero Páprica Defumada BR SPICES 45g",
-   "mercado": "angeloni",
-   "preco": 11.75,
-   "precoAntes": 23.5,
-   "desconto": 50,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Chá LEÃO Ice Tea Limão 1.5L",
-   "mercado": "angeloni",
-   "preco": 7.99,
-   "precoAntes": 8.59,
-   "desconto": 7,
-   "obs": "2ª unidade: 40% de desconto (sai por R$ 4,79)",
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Chocolate AMANDITA 200g",
-   "mercado": "angeloni",
-   "preco": 16.9,
-   "precoAntes": 22.99,
-   "desconto": 26,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Cappuccino 3 CORAÇÕES Diet Pote 150g",
-   "mercado": "angeloni",
-   "preco": 23.39,
-   "obs": "2ª unidade: 60% de desconto (sai por R$ 9,36)",
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Saco para Lixo YONGSHENG Preto com 20 Unidades 30l Rolo",
-   "mercado": "angeloni",
-   "preco": 8.99,
-   "precoAntes": 14.99,
+   "preco": 9.41,
+   "precoAntes": 15.69,
    "desconto": 40,
+   "variantes": [
+    "ao Leite Tamanho Familía",
+    "Meio Amargo Amaro 40% Cacau",
+    "Laka/Oreo Tamanho Familía",
+    "ao Leite Shot Tamanho Família",
+    "Diamante Negro Tamanho Familía"
+   ],
    "validade": null,
    "fonte": "site"
   },
   {
-   "produto": "Guardanapo Snob Folha Dupla Com 50 Unidades 32.5x32.5cm",
+   "produto": "Chocolate LACTA Com Recheio 98G",
    "mercado": "angeloni",
-   "preco": 12.9,
-   "precoAntes": 15.99,
-   "desconto": 19,
+   "preco": 5.93,
+   "precoAntes": 9.89,
+   "desconto": 40,
+   "variantes": [
+    "Branco Ouro",
+    "ao Leite Sonho De Valsa"
+   ],
    "validade": null,
    "fonte": "site"
   },
   {
-   "produto": "File de Peito Frango MACEDO Tiras Resfriada Kg",
-   "mercado": "angeloni",
-   "preco": 19.9,
-   "precoAntes": 26.59,
-   "desconto": 25,
-   "unidade": "kg",
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Amaciante de Roupa YPÊ Loccitane Au Brésil Ninfa das Águas Concentrado 1,5L",
-   "mercado": "angeloni",
-   "preco": 19.9,
-   "precoAntes": 26.99,
-   "desconto": 26,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "GILLETTE Mach3 Sensitive Carga Aparelho de Barbear com Aloe 4un",
-   "mercado": "angeloni",
-   "preco": 49.9,
-   "precoAntes": 68.9,
-   "desconto": 28,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Cerveja BUDWEISER Zero Álcool Lata 350ml",
+   "produto": "Refrigerante FANTA 350ml",
    "mercado": "angeloni",
    "preco": 3.79,
-   "precoAntes": 4.29,
-   "desconto": 12,
+   "variantes": [
+    "Laranja Zero",
+    "Guaraná Zero Adição de Açúcar",
+    "Laranja",
+    "Uva"
+   ],
    "validade": null,
    "fonte": "site"
   },
   {
-   "produto": "Saco para Lixo DOBRASIL Perfumado Azul com 20 Unidades 50L Rolo",
+   "produto": "Refresco KAPO 200ml",
    "mercado": "angeloni",
-   "preco": 19.9,
+   "preco": 2.99,
+   "variantes": [
+    "Uva",
+    "Morango",
+    "Maracujá",
+    "Laranja"
+   ],
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Azeitona Preta DONA HELENA com Caroço 198g",
+   "mercado": "angeloni",
+   "preco": 12.99,
+   "precoAntes": 16.99,
+   "desconto": 24,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Refrigerante Guaraná ANTARCTICA Guaraná 2L",
+   "mercado": "angeloni",
+   "preco": 7.99,
+   "precoAntes": 9.69,
+   "desconto": 18,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Refrigerante FANTA Laranja 200ml",
+   "mercado": "angeloni",
+   "preco": 1.49,
+   "precoAntes": 1.99,
+   "desconto": 25,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Café 3 CORAÇÕES Gourmet Dark Roast Drip Coffee 11g Unidade",
+   "mercado": "angeloni",
+   "preco": 3.29,
+   "obs": "2ª unidade: 60% de desconto (sai por R$ 1,32)",
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Refrigerante Sprite Original 200ml",
+   "mercado": "angeloni",
+   "preco": 1.49,
+   "precoAntes": 1.89,
+   "desconto": 21,
    "validade": null,
    "fonte": "site"
   },
@@ -1953,42 +422,16 @@
    "fonte": "site"
   },
   {
-   "produto": "Biscoito Recheado TRAKINAS Meio a Meio Chocolate e Morango 126g",
+   "produto": "Nhoque de Batata MONTE ROMANO Gnocchi di Patate 500g",
    "mercado": "angeloni",
-   "preco": 2.99,
-   "precoAntes": 3.85,
-   "desconto": 22,
+   "preco": 5.99,
+   "precoAntes": 8.99,
+   "desconto": 33,
    "validade": null,
    "fonte": "site"
   },
   {
-   "produto": "Refrigerante SCHWEPPES Cítrus Original 350ml",
-   "mercado": "angeloni",
-   "preco": 2.99,
-   "precoAntes": 4.39,
-   "desconto": 32,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Queijo Quark LAC LÉLO Light 200g",
-   "mercado": "angeloni",
-   "preco": 9.99,
-   "precoAntes": 10.99,
-   "desconto": 9,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Chocolate TWIX Biscoito e Caramelo 40g",
-   "mercado": "angeloni",
-   "preco": 4.59,
-   "obs": "Leve 2 ou mais: R$ 3,99 cada",
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Saco Para Lixo Yongsheng Yongsheng Preto Com 20 Unidades 50l Rolo",
+   "produto": "Saco Para Lixo YONGSHENG Preto Com 10 Unidades 100l Rolo",
    "mercado": "angeloni",
    "preco": 11.99,
    "precoAntes": 19.99,
@@ -1997,52 +440,7 @@
    "fonte": "site"
   },
   {
-   "produto": "Cerveja Pilsen SOL Zero Álcool 330ml",
-   "mercado": "angeloni",
-   "preco": 5.09,
-   "precoAntes": 5.99,
-   "desconto": 15,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Saco Para Lixo Dobrasil Perfumado Azul Com 10 Unidades 100l",
-   "mercado": "angeloni",
-   "preco": 19.9,
-   "precoAntes": 33.99,
-   "desconto": 41,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Energético Monster Ultra Violet 473ml",
-   "mercado": "angeloni",
-   "preco": 8.99,
-   "precoAntes": 9.99,
-   "desconto": 10,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Percarbonato de Sódio CALISUL 2kg",
-   "mercado": "angeloni",
-   "preco": 39.9,
-   "precoAntes": 60.9,
-   "desconto": 34,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Pepino em Rodelas HEMMER Burger Agridoce 200g",
-   "mercado": "angeloni",
-   "preco": 13.99,
-   "precoAntes": 16.99,
-   "desconto": 18,
-   "validade": null,
-   "fonte": "site"
-  },
-  {
-   "produto": "Limpador AJAX Fresh Lemon 1L Grátis 200ml",
+   "produto": "Saco para Lixo YONGSHENG Preto com 40 Unidades 15l Rolo",
    "mercado": "angeloni",
    "preco": 8.99,
    "precoAntes": 14.99,
@@ -2051,22 +449,1278 @@
    "fonte": "site"
   },
   {
-   "produto": "Azeite de Oliva Extra Virgem Seleção Português ANDORINHA Clássicos 500ml",
+   "produto": "Alcaparra DONA HELENA 85g",
    "mercado": "angeloni",
-   "preco": 34.99,
-   "precoAntes": 45.99,
-   "desconto": 24,
+   "preco": 8.99,
+   "precoAntes": 13.99,
+   "desconto": 36,
    "validade": null,
    "fonte": "site"
   },
   {
-   "produto": "Cereal Sucrilhos Original KELLOGG'S 240g",
+   "produto": "Batata JACKER 100g",
    "mercado": "angeloni",
-   "preco": 9.99,
-   "precoAntes": 13.5,
-   "desconto": 26,
+   "preco": 5.99,
+   "precoAntes": 9.99,
+   "desconto": 40,
+   "variantes": [
+    "Original",
+    "Sour Cream e Onion"
+   ],
    "validade": null,
    "fonte": "site"
+  },
+  {
+   "produto": "Café individual 3 CORAÇÕES Portinari Peneirando Café 1957 Drip Coffee 10g",
+   "mercado": "angeloni",
+   "preco": 3.39,
+   "obs": "2ª unidade: 60% de desconto (sai por R$ 1,36)",
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Lenço Umedecido COTTON VALLEY com 20 Unidades",
+   "mercado": "angeloni",
+   "preco": 1.99,
+   "precoAntes": 3.99,
+   "desconto": 50,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Lavas Roupas em Pó OMO Todo Ciclo 1,4kg",
+   "mercado": "angeloni",
+   "preco": 29.99,
+   "obs": "2ª unidade: 40% de desconto (sai por R$ 17,99)",
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Café individual 3 CORAÇÕES Tradicional Drip Coffee 10g",
+   "mercado": "angeloni",
+   "preco": 3.29,
+   "obs": "2ª unidade: 60% de desconto (sai por R$ 1,32)",
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Refrigerante SCHWEPPES Cítrus Original 350ml",
+   "mercado": "angeloni",
+   "preco": 2.69,
+   "precoAntes": 4.39,
+   "desconto": 39,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Chá MATTE LEÃO 1.5L",
+   "mercado": "angeloni",
+   "preco": 8.59,
+   "obs": "2ª unidade: 40% de desconto (sai por R$ 5,15)",
+   "variantes": [
+    "Natural",
+    "Limão"
+   ],
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Biscoito VIEIRA Princesa 400g",
+   "mercado": "angeloni",
+   "preco": 20.99,
+   "precoAntes": 29.99,
+   "desconto": 30,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Chiclete TRIDENT XSenses Sem Açúcar Garrafa 54g",
+   "mercado": "angeloni",
+   "preco": 9.41,
+   "precoAntes": 15.69,
+   "desconto": 40,
+   "variantes": [
+    "Spearmint",
+    "Morango Lime",
+    "Melancia Mint",
+    "Peppermint"
+   ],
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Chocolate AMANDITA 200g",
+   "mercado": "angeloni",
+   "preco": 14.39,
+   "precoAntes": 23.99,
+   "desconto": 40,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Chocolate LACTA Bis Branco - Kit com 3 unidades de 100,8g",
+   "mercado": "angeloni",
+   "preco": 13.01,
+   "precoAntes": 21.69,
+   "desconto": 40,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Néctar DEL VALLE",
+   "mercado": "angeloni",
+   "preco": 10.99,
+   "obs": "2ª unidade: 40% de desconto (sai por R$ 6,59)",
+   "variantes": [
+    "Uva 1L",
+    "Pêssego Sem Adição de Açúcar 1L",
+    "Pêssego 1L",
+    "Manga 1l"
+   ],
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "CIF Cremoso Limpeza Milagrosa Limão para casa 450ml",
+   "mercado": "angeloni",
+   "preco": 21.29,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Molho de Tomate CIRIO 420g",
+   "mercado": "angeloni",
+   "preco": 11.83,
+   "precoAntes": 16.9,
+   "desconto": 30,
+   "variantes": [
+    "Basilico",
+    "Napoletana"
+   ],
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Refrigerante FANTA Laranja 2L",
+   "mercado": "angeloni",
+   "preco": 6.99,
+   "precoAntes": 8.99,
+   "desconto": 22,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Chá LEÃO FUZE Ice Tea Zero Açúcar 450ml",
+   "mercado": "angeloni",
+   "preco": 4.39,
+   "variantes": [
+    "Pêssego",
+    "Limão"
+   ],
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Aspargo CAMPOMARE Verdes Inteiro 185g",
+   "mercado": "angeloni",
+   "preco": 18.83,
+   "precoAntes": 26.9,
+   "desconto": 30,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Chocolate LACTA Bisão 201,6g",
+   "mercado": "angeloni",
+   "preco": 9.23,
+   "precoAntes": 15.39,
+   "desconto": 40,
+   "variantes": [
+    "Ao Leite",
+    "Branco"
+   ],
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Macarrão Grano Duro BARILLA 500g",
+   "mercado": "angeloni",
+   "preco": 8.99,
+   "precoAntes": 14.29,
+   "desconto": 37,
+   "variantes": [
+    "Spaghetti n5",
+    "Spaghettoni n7"
+   ],
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Cookie ALPINO Gotas de Chocolate 60g",
+   "mercado": "angeloni",
+   "preco": 2.79,
+   "precoAntes": 3.99,
+   "desconto": 30,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Chocolate LACTA Bis Limão 100.8g Edição Limitada",
+   "mercado": "angeloni",
+   "preco": 4.73,
+   "precoAntes": 7.89,
+   "desconto": 40,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Crespini Laurieri Rosmarino Italiano Pacote 125g",
+   "mercado": "angeloni",
+   "preco": 6.99,
+   "precoAntes": 9.99,
+   "desconto": 30,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Bebida Isotônica POWERADE 500ml",
+   "mercado": "angeloni",
+   "preco": 4.89,
+   "obs": "2ª unidade: 50% de desconto (sai por R$ 2,44)",
+   "variantes": [
+    "Uva",
+    "Laranja"
+   ],
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Chocolate LACTA Laka Recheados Caramelo 104g",
+   "mercado": "angeloni",
+   "preco": 5.93,
+   "precoAntes": 9.89,
+   "desconto": 40,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Chocolate LACTA Recheados Caramelo 104g",
+   "mercado": "angeloni",
+   "preco": 5.93,
+   "precoAntes": 9.89,
+   "desconto": 40,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Azeitona Verde DONA HELENA 198g",
+   "mercado": "angeloni",
+   "preco": 13.99,
+   "precoAntes": 16.99,
+   "desconto": 18,
+   "variantes": [
+    "Fatiada",
+    "com Caroço"
+   ],
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Refrigerante SPRITE Original 2L",
+   "mercado": "angeloni",
+   "preco": 8.99,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Lava Roupas em Pó OMO Lavanda 1,4kg",
+   "mercado": "angeloni",
+   "preco": 29.99,
+   "obs": "2ª unidade: 40% de desconto (sai por R$ 17,99)",
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Geléia MONTE ROMANO Morango 340g",
+   "mercado": "angeloni",
+   "preco": 14.9,
+   "precoAntes": 19.9,
+   "desconto": 25,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Cerveja Especial THEREZÓPOLIS Pure Malt Lager Gold 350ml",
+   "mercado": "angeloni",
+   "preco": 4.49,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Tomate Cereja CIRIO 250g",
+   "mercado": "angeloni",
+   "preco": 9.03,
+   "precoAntes": 12.9,
+   "desconto": 30,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Goma de Mascar TRIDENT X Gamers Acid Berry Sem Açúcar 48.3g",
+   "mercado": "angeloni",
+   "preco": 9.41,
+   "precoAntes": 15.69,
+   "desconto": 40,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Polpa Tomate CIRIO Classico 390g",
+   "mercado": "angeloni",
+   "preco": 6.99,
+   "precoAntes": 9.99,
+   "desconto": 30,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Refrigerante Fanta Uva 2l",
+   "mercado": "angeloni",
+   "preco": 6.99,
+   "precoAntes": 8.99,
+   "desconto": 22,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Capsula Compativel Café Mogiana Paulista 3 CORAÇÕES 10 unid",
+   "mercado": "angeloni",
+   "preco": 16.9,
+   "precoAntes": 20.99,
+   "desconto": 19,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Cerveja STELLA ARTOIS Pure Gold Sem Glúten 350ml Lata",
+   "mercado": "angeloni",
+   "preco": 5.99,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Café 3 CORAÇÕES Colômbia Intensidade 7 Compatível Apenas Máquinas Nespresso com 10 Cápsulas",
+   "mercado": "angeloni",
+   "preco": 19.99,
+   "validade": null,
+   "fonte": "site"
+  },
+  {
+   "produto": "Banana Prata",
+   "mercado": "myata",
+   "preco": 1.99,
+   "precoAntes": 3.99,
+   "desconto": 50,
+   "unidade": "kg",
+   "obs": "Só terça (24/11) · Preço Clube Myatã",
+   "validade": "2026-11-24",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Uva Thompson 500g",
+   "mercado": "myata",
+   "preco": 9.99,
+   "precoAntes": 12.99,
+   "desconto": 23,
+   "obs": "Só terça (24/11) · Preço Clube Myatã",
+   "validade": "2026-11-24",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Mix Brócolis Couve-flor 250g",
+   "mercado": "myata",
+   "preco": 3.99,
+   "precoAntes": 4.99,
+   "desconto": 20,
+   "obs": "Só terça (24/11) · Preço Clube Myatã",
+   "validade": "2026-11-24",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Vagem",
+   "mercado": "myata",
+   "preco": 8.99,
+   "precoAntes": 9.99,
+   "desconto": 10,
+   "unidade": "kg",
+   "obs": "Só terça (24/11) · Preço Clube Myatã",
+   "validade": "2026-11-24",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Maçã Mini Sanjo 1kg",
+   "mercado": "myata",
+   "preco": 6.99,
+   "precoAntes": 7.99,
+   "desconto": 13,
+   "obs": "Só terça (24/11) · Preço Clube Myatã",
+   "validade": "2026-11-24",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Laranja Pera",
+   "mercado": "myata",
+   "preco": 1.99,
+   "precoAntes": 3.29,
+   "desconto": 40,
+   "unidade": "kg",
+   "obs": "Só terça (24/11) · Preço Clube Myatã",
+   "validade": "2026-11-24",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Alho Granel",
+   "mercado": "myata",
+   "preco": 19.99,
+   "precoAntes": 24.99,
+   "desconto": 20,
+   "unidade": "kg",
+   "obs": "Só terça (24/11) · Preço Clube Myatã",
+   "validade": "2026-11-24",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Pepino Japonês",
+   "mercado": "myata",
+   "preco": 4.99,
+   "precoAntes": 5.99,
+   "desconto": 17,
+   "unidade": "kg",
+   "obs": "Só terça (24/11) · Preço Clube Myatã",
+   "validade": "2026-11-24",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Melão Amarelo",
+   "mercado": "myata",
+   "preco": 6.99,
+   "precoAntes": 7.99,
+   "desconto": 13,
+   "unidade": "kg",
+   "obs": "Só terça (24/11) · Preço Clube Myatã",
+   "validade": "2026-11-24",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Abacaxi Pérola",
+   "mercado": "myata",
+   "preco": 8.99,
+   "precoAntes": 9.49,
+   "desconto": 5,
+   "obs": "Só terça (24/11) · Preço Clube Myatã",
+   "validade": "2026-11-24",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Batata Média",
+   "mercado": "myata",
+   "preco": 2.99,
+   "precoAntes": 4.49,
+   "desconto": 33,
+   "unidade": "kg",
+   "obs": "Só terça (24/11) · Preço Clube Myatã",
+   "validade": "2026-11-24",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Maçã Gala",
+   "mercado": "myata",
+   "preco": 8.99,
+   "precoAntes": 9.49,
+   "desconto": 5,
+   "unidade": "kg",
+   "obs": "Só terça (24/11) · Preço Clube Myatã",
+   "validade": "2026-11-24",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Repolho (un)",
+   "mercado": "myata",
+   "preco": 2.99,
+   "precoAntes": 3.99,
+   "desconto": 25,
+   "obs": "Só terça (24/11) · Preço Clube Myatã",
+   "validade": "2026-11-24",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Abobrinha",
+   "mercado": "myata",
+   "preco": 1.99,
+   "precoAntes": 2.99,
+   "desconto": 33,
+   "unidade": "kg",
+   "obs": "Só terça (24/11) · Preço Clube Myatã",
+   "validade": "2026-11-24",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Vergamota",
+   "mercado": "myata",
+   "preco": 8.99,
+   "precoAntes": 9.99,
+   "desconto": 10,
+   "unidade": "kg",
+   "obs": "Só terça (24/11) · Preço Clube Myatã",
+   "validade": "2026-11-24",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Ovo Vermelho Centenário C30",
+   "mercado": "myata",
+   "preco": 12.99,
+   "precoAntes": 15.99,
+   "desconto": 19,
+   "obs": "Só terça (24/11) · Preço Clube Myatã",
+   "validade": "2026-11-24",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Peito Granito Bovino São João Porci",
+   "mercado": "myata",
+   "preco": 39.99,
+   "precoAntes": 45.9,
+   "desconto": 13,
+   "unidade": "kg",
+   "obs": "Só quarta (25/11) · Preço Clube Myatã",
+   "validade": "2026-11-25",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Coxão Mole Bovino Posta c/ Capa (exceto precoce)",
+   "mercado": "myata",
+   "preco": 49.9,
+   "precoAntes": 64.9,
+   "desconto": 23,
+   "unidade": "kg",
+   "obs": "Só quarta (25/11) · Preço Clube Myatã",
+   "validade": "2026-11-25",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Coxão Fora Bovino Posta (exceto precoce)",
+   "mercado": "myata",
+   "preco": 47.99,
+   "precoAntes": 59.9,
+   "desconto": 20,
+   "unidade": "kg",
+   "obs": "Só quarta (25/11) · Preço Clube Myatã",
+   "validade": "2026-11-25",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Fraldinha Mataboi Bovina",
+   "mercado": "myata",
+   "preco": 49.9,
+   "precoAntes": 59.9,
+   "desconto": 17,
+   "unidade": "kg",
+   "obs": "Só quarta (25/11) · Preço Clube Myatã",
+   "validade": "2026-11-25",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Acém Bovino Posta (exceto precoce)",
+   "mercado": "myata",
+   "preco": 39.99,
+   "precoAntes": 51.9,
+   "desconto": 23,
+   "unidade": "kg",
+   "obs": "Só quarta (25/11) · Preço Clube Myatã",
+   "validade": "2026-11-25",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Filé de Tilápia Schaaadinha 400g",
+   "mercado": "myata",
+   "preco": 17.98,
+   "precoAntes": 21.99,
+   "desconto": 18,
+   "obs": "Só quarta (25/11) · Preço Clube Myatã",
+   "validade": "2026-11-25",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Paleta Bovina Posta (exceto precoce)",
+   "mercado": "myata",
+   "preco": 43.9,
+   "precoAntes": 53.9,
+   "desconto": 19,
+   "unidade": "kg",
+   "obs": "Só quarta (25/11) · Preço Clube Myatã",
+   "validade": "2026-11-25",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Lagarto Tatu Bovino Posta",
+   "mercado": "myata",
+   "preco": 43.99,
+   "precoAntes": 55.9,
+   "desconto": 21,
+   "unidade": "kg",
+   "obs": "Só quarta (25/11) · Preço Clube Myatã",
+   "validade": "2026-11-25",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Coxa e Sobrecoxa de Frango",
+   "mercado": "myata",
+   "preco": 7.99,
+   "precoAntes": 9.99,
+   "desconto": 20,
+   "unidade": "kg",
+   "obs": "Só quarta (25/11) · Preço Clube Myatã",
+   "validade": "2026-11-25",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Coxinha da Asa IQF Sadia 1kg",
+   "mercado": "myata",
+   "preco": 13.99,
+   "precoAntes": 15.99,
+   "desconto": 13,
+   "obs": "Só quarta (25/11) · Preço Clube Myatã",
+   "validade": "2026-11-25",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Filé de Coxa e Sobrecoxa Aurora IQF 1kg",
+   "mercado": "myata",
+   "preco": 14.99,
+   "precoAntes": 16.99,
+   "desconto": 12,
+   "obs": "Só quarta (25/11) · Preço Clube Myatã",
+   "validade": "2026-11-25",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Frango Passarinho IQF Morgana 1kg",
+   "mercado": "myata",
+   "preco": 5.99,
+   "precoAntes": 7.99,
+   "desconto": 25,
+   "obs": "Só quarta (25/11) · Preço Clube Myatã",
+   "validade": "2026-11-25",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Pernil Suíno In Natura c/ Pele",
+   "mercado": "myata",
+   "preco": 9.99,
+   "precoAntes": 13.59,
+   "desconto": 26,
+   "unidade": "kg",
+   "obs": "Só quarta (25/11) · Preço Clube Myatã",
+   "validade": "2026-11-25",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Costela Suína Sadia Congelada em Tiras",
+   "mercado": "myata",
+   "preco": 19.99,
+   "precoAntes": 22.99,
+   "desconto": 13,
+   "unidade": "kg",
+   "obs": "Só quarta (25/11) · Preço Clube Myatã",
+   "validade": "2026-11-25",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Bisteca Suína Sadia Congelada",
+   "mercado": "myata",
+   "preco": 13.97,
+   "precoAntes": 15.99,
+   "desconto": 13,
+   "unidade": "kg",
+   "obs": "Só quarta (25/11) · Preço Clube Myatã",
+   "validade": "2026-11-25",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Arroz Parboilizado Minuto 5kg",
+   "mercado": "myata",
+   "preco": 12.99,
+   "precoAntes": 16.99,
+   "desconto": 24,
+   "obs": "Preço Clube Myatã · até 26/11",
+   "validade": "2026-11-26",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Creme de Leite Tirol 200g",
+   "mercado": "myata",
+   "preco": 2.49,
+   "obs": "Preço Clube Myatã · até 26/11",
+   "validade": "2026-11-26",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Açúcar Extrafino DoceSucar 5kg",
+   "mercado": "myata",
+   "preco": 11.99,
+   "precoAntes": 13.99,
+   "desconto": 14,
+   "obs": "Preço Clube Myatã · até 26/11",
+   "validade": "2026-11-26",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Massa Instantânea Nissin Lámen",
+   "mercado": "myata",
+   "preco": 2.69,
+   "precoAntes": 3.49,
+   "desconto": 23,
+   "obs": "Preço Clube Myatã · até 26/11",
+   "validade": "2026-11-26",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Suco/Néctar Maguary",
+   "mercado": "myata",
+   "preco": 6.99,
+   "precoAntes": 7.99,
+   "desconto": 13,
+   "obs": "Preço Clube Myatã · até 26/11",
+   "validade": "2026-11-26",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Farinha de Trigo Maletti 5kg",
+   "mercado": "myata",
+   "preco": 10.99,
+   "precoAntes": 14.99,
+   "desconto": 27,
+   "obs": "Preço Clube Myatã · até 26/11",
+   "validade": "2026-11-26",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Steak de Ave Perdigão 100g",
+   "mercado": "myata",
+   "preco": 1.99,
+   "precoAntes": 2.29,
+   "desconto": 13,
+   "obs": "Preço Clube Myatã · até 26/11",
+   "validade": "2026-11-26",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Chocolate Hershey's (exceto meio amargo)",
+   "mercado": "myata",
+   "preco": 5.99,
+   "precoAntes": 6.99,
+   "desconto": 14,
+   "obs": "Preço Clube Myatã · até 26/11",
+   "validade": "2026-11-26",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Filezinho Sassami IQF Sadia 1kg",
+   "mercado": "myata",
+   "preco": 17.99,
+   "obs": "Preço Clube Myatã · até 26/11",
+   "validade": "2026-11-26",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Biscoito Orquídea Leite 320g",
+   "mercado": "myata",
+   "preco": 4.49,
+   "precoAntes": 4.99,
+   "desconto": 10,
+   "obs": "Preço Clube Myatã · até 26/11",
+   "validade": "2026-11-26",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Café Iguaçu Tradicional Pó",
+   "mercado": "myata",
+   "preco": 18.87,
+   "precoAntes": 22.27,
+   "desconto": 15,
+   "obs": "Preço Clube Myatã · até 26/11",
+   "validade": "2026-11-26",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Leite Parmalat 1L",
+   "mercado": "myata",
+   "preco": 4.25,
+   "precoAntes": 4.89,
+   "desconto": 13,
+   "obs": "Preço Clube Myatã · até 26/11",
+   "validade": "2026-11-26",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Linguiça Toscana",
+   "mercado": "myata",
+   "preco": 10.99,
+   "precoAntes": 12.99,
+   "desconto": 15,
+   "obs": "Preço Clube Myatã · até 26/11",
+   "validade": "2026-11-26",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Duetto Predilecta Lata",
+   "mercado": "myata",
+   "preco": 2.48,
+   "precoAntes": 2.99,
+   "desconto": 17,
+   "obs": "Preço Clube Myatã · até 26/11",
+   "validade": "2026-11-26",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Amaciante Downy 750ml",
+   "mercado": "myata",
+   "preco": 13.99,
+   "precoAntes": 15.99,
+   "desconto": 13,
+   "obs": "Preço Clube Myatã · até 26/11",
+   "validade": "2026-11-26",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Shampoo Clear 350ml",
+   "mercado": "myata",
+   "preco": 23.89,
+   "precoAntes": 28.89,
+   "desconto": 17,
+   "obs": "Preço Clube Myatã · até 26/11",
+   "validade": "2026-11-26",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Cerveja Proibida Pilsen Lata 350ml",
+   "mercado": "myata",
+   "preco": 1.99,
+   "precoAntes": 2.29,
+   "desconto": 13,
+   "obs": "Preço Clube Myatã · até 26/11",
+   "validade": "2026-11-26",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Paleta Bovina Posta/Moída (exceto precoce)",
+   "mercado": "myata",
+   "preco": 43.9,
+   "precoAntes": 53.9,
+   "desconto": 19,
+   "unidade": "kg",
+   "obs": "Preço Clube Myatã · até 26/11",
+   "validade": "2026-11-26",
+   "fonte": "encarte"
+  },
+  {
+   "produto": "Carne Moída Prato Cheio Congelada 1kg",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 19.78
+  },
+  {
+   "produto": "Marominha Fribai Bovina Congelada a Vácuo",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 49.98
+  },
+  {
+   "produto": "Pernil Suíno c/ Osso Temperado Resfriado",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 16.89
+  },
+  {
+   "produto": "Filezinho Sassami Lar Congelado 1kg",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 28.98,
+   "precoAntes": 29.98,
+   "desconto": 3,
+   "obs": "Preço promocional a partir de 3 un"
+  },
+  {
+   "produto": "Coxinha da Asa Lar Congelada 1kg",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 20.98,
+   "precoAntes": 22.98,
+   "desconto": 9,
+   "obs": "Preço promocional a partir de 3 un"
+  },
+  {
+   "produto": "Filé de Tilápia Copacol Congelado 1kg",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 89.9,
+   "precoAntes": 94.9,
+   "desconto": 5,
+   "obs": "Preço promocional a partir de 2 un"
+  },
+  {
+   "produto": "Bacon São Pedro em Cubos",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 26.98,
+   "precoAntes": 27.98,
+   "desconto": 4,
+   "obs": "Preço promocional a partir de 2 un"
+  },
+  {
+   "produto": "Queijo Mussarela Tirol (peça)",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 33.89
+  },
+  {
+   "produto": "Frango Empanado Lar Congelado 1kg",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 29.98,
+   "precoAntes": 31.98,
+   "desconto": 6,
+   "obs": "Preço promocional a partir de 2 un"
+  },
+  {
+   "produto": "Linguiça Calabresa Frisia 2,5kg",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 44.98
+  },
+  {
+   "produto": "Batata Bata Congelada 1,05kg",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 16.98,
+   "precoAntes": 17.98,
+   "desconto": 6,
+   "obs": "Preço promocional a partir de 2 un"
+  },
+  {
+   "produto": "Polenta Bautner Congelada 2kg",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 9.98,
+   "precoAntes": 10.48,
+   "desconto": 5,
+   "obs": "Preço promocional a partir de 2 un"
+  },
+  {
+   "produto": "Morango Congelado Inteiro 1kg",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 12.98,
+   "precoAntes": 13.98,
+   "desconto": 7,
+   "obs": "Preço promocional a partir de 2 un"
+  },
+  {
+   "produto": "Néctar Laranja 5 Litros",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 39.9
+  },
+  {
+   "produto": "Óleo de Soja Soya Fry Max Balde 14,5kg",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 167.9
+  },
+  {
+   "produto": "Suco Del Valle Lata 290ml (sabores)",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 3.49
+  },
+  {
+   "produto": "Refrigerante Coca-Cola Original/Sem Açúcar 200ml",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 1.65
+  },
+  {
+   "produto": "Refrigerante Fanta ou Sprite Lata 350ml",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 2.99
+  },
+  {
+   "produto": "Cerveja Stella Artois One Way 600ml",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 9.45
+  },
+  {
+   "produto": "Cerveja Império Lata 350ml",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 3.09
+  },
+  {
+   "produto": "Milho/Ervilha Tradelli Lata 1,5kg",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 16.9,
+   "precoAntes": 17.9,
+   "desconto": 6,
+   "obs": "Preço promocional a partir de 3 un"
+  },
+  {
+   "produto": "Maionese Hellmann's 2,8kg",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 39.9,
+   "precoAntes": 42.9,
+   "desconto": 7,
+   "obs": "Preço promocional a partir de 3 un"
+  },
+  {
+   "produto": "Ketchup 3,4kg ou Mostarda Calcutá 3,2kg",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 15.98,
+   "precoAntes": 16.9,
+   "desconto": 5,
+   "obs": "Preço promocional a partir de 3 un"
+  },
+  {
+   "produto": "Batata Palha Agitus 800g",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 16.98,
+   "precoAntes": 17.95,
+   "desconto": 5,
+   "obs": "Preço promocional a partir de 3 un"
+  },
+  {
+   "produto": "Extrato de Tomate Elefante 1,7kg",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 27.9,
+   "precoAntes": 28.98,
+   "desconto": 4,
+   "obs": "Preço promocional a partir de 3 un"
+  },
+  {
+   "produto": "Passata/Tomate Triturado Sacciali Sachê 1,5kg",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 16.9,
+   "precoAntes": 17.98,
+   "desconto": 6,
+   "obs": "Preço promocional a partir de 3 un"
+  },
+  {
+   "produto": "Massa Caseira D'Itália 2kg",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 24.9,
+   "precoAntes": 25.98,
+   "desconto": 4,
+   "obs": "Preço promocional a partir de 2 un"
+  },
+  {
+   "produto": "Tomate Seco Natupalm 1,01kg",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 39.98,
+   "precoAntes": 42.9,
+   "desconto": 7,
+   "obs": "Preço promocional a partir de 3 un"
+  },
+  {
+   "produto": "Palmito Pupunha Picado Natupalm 1,08kg",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 18.9,
+   "precoAntes": 19.9,
+   "desconto": 5,
+   "obs": "Preço promocional a partir de 3 un"
+  },
+  {
+   "produto": "Caldo em Pó Apti 1,05kg (sabores)",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 8.99,
+   "precoAntes": 9.45,
+   "desconto": 5,
+   "obs": "Preço promocional a partir de 3 un"
+  },
+  {
+   "produto": "Molho de Alho Karasumo 1,01L",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 5.89,
+   "precoAntes": 6.49,
+   "desconto": 9,
+   "obs": "Preço promocional a partir de 3 un"
+  },
+  {
+   "produto": "Molho de Pimenta Karasumo 1,01L",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 6.79,
+   "precoAntes": 6.99,
+   "desconto": 3,
+   "obs": "Preço promocional a partir de 3 un"
+  },
+  {
+   "produto": "Farinha de Rosca Toscana 5kg",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 37.9,
+   "precoAntes": 39.9,
+   "desconto": 5,
+   "obs": "Preço promocional a partir de 3 un"
+  },
+  {
+   "produto": "Pó para Gelatina Apti 1kg (sabores)",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 15.49,
+   "precoAntes": 15.98,
+   "desconto": 3,
+   "obs": "Preço promocional a partir de 3 un"
+  },
+  {
+   "produto": "Pudim Apti 1kg (sabores)",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 12.98
+  },
+  {
+   "produto": "Copo de Cerveja Nadir Munich 200ml",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 3.99
+  },
+  {
+   "produto": "Prato Duralex Raso/Fundo",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 3.29,
+   "precoAntes": 3.98,
+   "desconto": 17,
+   "obs": "Preço promocional a partir de 3 un"
+  },
+  {
+   "produto": "Filme PVC Vabene 28cm x 100m",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 17.9,
+   "precoAntes": 19.9,
+   "desconto": 10,
+   "obs": "Preço promocional a partir de 3 un"
+  },
+  {
+   "produto": "Luva Plástica Nobre c/ 100 un",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 1.99
+  },
+  {
+   "produto": "Touca Descartável Nobre c/ 100 un",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 7.98,
+   "precoAntes": 8.98,
+   "desconto": 11,
+   "obs": "Preço promocional a partir de 3 un"
+  },
+  {
+   "produto": "Papel Toalha Passione 750 folhas",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 12.9
+  },
+  {
+   "produto": "Copo Transparente Cristalcopo 300ml c/ 100 un",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 8.95
+  },
+  {
+   "produto": "Prato Fundo Cristalcopo 21cm c/ 10 un",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 4.59,
+   "precoAntes": 4.99,
+   "desconto": 8,
+   "obs": "Preço promocional a partir de 3 un"
+  },
+  {
+   "produto": "Saco p/ Freezer Vabene 2L c/ 100 un",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 4.29,
+   "precoAntes": 4.79,
+   "desconto": 10,
+   "obs": "Preço promocional a partir de 3 un"
+  },
+  {
+   "produto": "Papel Alumínio Vabene 30cm x 100m",
+   "mercado": "fort",
+   "validade": "2026-11-29",
+   "fonte": "encarte",
+   "preco": 65.9,
+   "precoAntes": 69.5,
+   "desconto": 5,
+   "obs": "Preço promocional a partir de 3 un"
   }
  ]
 }
